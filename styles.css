@@ -1,0 +1,41 @@
+body {
+  background-image: linear-gradient(grey, pink);
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: plum;
+  height: 100px;
+}
+
+.footer {
+  background-color: aquamarine;
+  height: 80px;
+  clear: both;
+}
+
+.left {
+  background-color: chartreuse;
+  height: 450px;
+  width: 20%;
+  float: left;
+}
+
+.main {
+  background-color: yellow;
+  height: 450px;
+  width: 60%;
+  float: left;
+}
+
+.right {
+  background-color: indianred;
+  height: 450px;
+  width: 20%;
+  float: left;
+}
